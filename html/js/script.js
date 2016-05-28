@@ -3,9 +3,9 @@ $(document).ready(function() {
         'verticalCentered': false,
         'css3': true,
         'sectionsColor': ['#F0F2F4', '#fff', '#fff', '#fff', '#F0F2F4'],
-        'navigation': true,
-        'navigationPosition': 'right',
-        'navigationTooltips': ['Home', 'About Us', 'Team', 'Support', 'Contact Us'],
+        //'navigation': true,
+        //'navigationPosition': 'right',
+        //'navigationTooltips': ['Home', 'About Us', 'Team', 'Support', 'Contact Us'],
 
 
         'onLeave': function(index, nextIndex, direction){
